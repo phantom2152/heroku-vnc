@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/phantom2152/heroku-vnc)
 # NoVNC-for-Heroku
 **Running a VNC server + NoVNC client on Heroku app**
 
